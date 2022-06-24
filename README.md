@@ -37,7 +37,7 @@ __Topics__ :
 
 # QUERYING
 
-__Raw DATA__
+__Raw DATA:__
 ![ODATA1](https://user-images.githubusercontent.com/89700270/175551223-0bb52bb0-6e0a-4440-99d6-87344d3df8b0.PNG)
 
 - Select
